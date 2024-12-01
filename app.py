@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 # Cost center data
 cost_centers = {
-    "1001": {"description": "ULIS Business Team", "status": "ACTIVE"},
+    "1001": {"description": "ABC Business Team", "status": "ACTIVE"},
     "1002": {"description": "Finance Department", "status": "INACTIVE"},
     "1003": {"description": "HR Team", "status": "ACTIVE"}
 }
